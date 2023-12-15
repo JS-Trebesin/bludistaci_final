@@ -1,6 +1,6 @@
 import csv, sys
 
-cesta = "D:\\Documents\\py\\sandbox\\bludistaci\\data.csv"
+cesta = "sem napiš cestu ke svému csv"
 
 
 def main():
