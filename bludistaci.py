@@ -2,8 +2,10 @@ import csv, sys, os
 
 # tento řádek kódu zjistí, kde se nachází naše aplikace bludistaci.py
 slozka_s_aplikaci = os.path.dirname(os.path.abspath(__file__))
-# k cestě, kterou jsem zjistili výše přidáme název souboru, kam ukládáme data
+
+# k cestě, kterou jsme zjistili výše přidáme název souboru, kam ukládáme data
 cesta = os.path.join(slozka_s_aplikaci, "data.csv")
+
 # nyní nám bude ukládat/načítat data ze souboru data.csv, který se nachází ve stejné složce jako bludistaci.py
 
 
