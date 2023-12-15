@@ -12,7 +12,7 @@ Výsledkem mělo být seznámení a osvojení si nových konceptů:
 
 ## Možná vylepšení
 
-_Kód by se dal zajisté ještě lépe vylepšit. Za jedničku(y) můžete kód upravit a poslat Pull request s vaším zlepšením._
+**Kód by se dal zajisté ještě lépe vylepšit. Za jedničku(y) můžete kód upravit a poslat Pull request s vaším zlepšením.**
 
 -   oprava bugů
     -   error v případě neexistujících studentů
