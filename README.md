@@ -10,9 +10,9 @@ Výsledkem mělo být seznámení a osvojení si nových konceptů:
 -   zachytávání chyb přes try/except
 -   alternativa k if/else v podobě match/case
 
-## Možná vylepšení
-
 **Kód by se dal zajisté ještě lépe vylepšit. Za jedničku(y) můžete kód upravit a poslat Pull request s vaším zlepšením.**
+
+## Možná vylepšení
 
 -   oprava bugů
     -   error v případě neexistujících studentů
